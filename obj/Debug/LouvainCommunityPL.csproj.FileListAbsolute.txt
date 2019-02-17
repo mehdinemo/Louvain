@@ -1,0 +1,7 @@
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\bin\Debug\LouvainCommunityPL.dll.config
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\bin\Debug\LouvainCommunityPL.dll
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\bin\Debug\LouvainCommunityPL.pdb
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\obj\Debug\LouvainCommunityPL.csprojResolveAssemblyReference.cache
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\obj\Debug\LouvainCommunityPL.csproj.CoreCompileInputs.cache
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\obj\Debug\LouvainCommunityPL.dll
+D:\Graph Clustering\LouvainSharp-master (1)\LouvainSharp-master\LouvainCommunityPL\obj\Debug\LouvainCommunityPL.pdb
